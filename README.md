@@ -1,4 +1,4 @@
-## Olá, eu sou o ERICK DIAS, criador de software Jr.!
+## Olá, eu sou o ERICK DIAS, criador de software!
 
 Formado
 
