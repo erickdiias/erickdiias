@@ -1,5 +1,7 @@
 ## Olá, eu sou o ERICK DIAS, criador de conteúdo de programação e tecnologia!
 
+Formado
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erickdiias&show_icons=true&theme=dark)
 
 <div style="display: inline_block"><br>
