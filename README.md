@@ -1,4 +1,4 @@
-## Olá, eu sou o ERICK criador de software, e bem vindo ao meu github!
+## Olá, eu sou o ERICK, desenvolvedor de software, e bem vindo ao meu github!
 
 Formado
 
